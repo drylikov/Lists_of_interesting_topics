@@ -1,6 +1,3 @@
-##Lists of intresting topic.
-
-
 ## Contents
 
 - [Platforms](#platforms)
